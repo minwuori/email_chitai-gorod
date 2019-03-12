@@ -1,0 +1,467 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml" style="min-height: 100%;">
+
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta name="viewport" content="width=device-width" />
+
+    <meta name="format-detection" content="telephone=no" />
+
+    <meta http-equiv="x-rim-auto-match" content="none" />
+
+    <title>Title</title>
+
+</head>
+
+<body style="width: 100% !important; min-width: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; color: #0a0a0a; font-family: Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.2; font-size: 16px; margin: 0; padding: 0;">
+
+    <table border="0" cellpadding="0" cellspacing="0" bgcolor="#f3f3f3" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; height: 100%; width: 100%; color: #0a0a0a; font-family: Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.2; font-size: 16px; background: #f3f3f3; margin: 0; padding: 0;">
+
+        <tr style="vertical-align: top; text-align: left; padding: 0;" align="left">
+
+            <td align="center" valign="top" style="word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: center; float: none; color: #0a0a0a; font-family: Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.2; font-size: 16px; margin: 0 auto; padding: 0;">
+
+                <center style="width: 100%; min-width: 580px;">
+
+                    <!-- PREHEADER -->
+
+                    <table border="0" cellpadding="0" cellspacing="0" align="center"  style="width: 100%; border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; float: none; margin: 0 auto; padding: 0; ">
+
+                        <tr align="center" style="vertical-align: top; text-align: center; height: 30px;  padding: 0;">
+
+                            <td align="center" valign="middle" style="border-collapse: collapse !important; vertical-align: middle; text-align: center; line-height: 1.2; margin: 0; padding: 0;">
+
+                                <table border="0" cellpadding="0" cellspacing="0" align="center"  style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; width: 600px; margin: 0 auto; padding: 0;">
+
+                                    <tr align="center" style="vertical-align: top; text-align: center; padding: 0;">
+
+                                        <td valign="middle" style="word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: middle; text-align: center; color: #ffffff; font-family: Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1px; font-size: 1px; margin: 0; padding: 0;">
+
+                                            
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr align="center" style="vertical-align: top; text-align: center; padding: 0;">
+
+                                        <td align="center" valign="middle" style="word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: middle; text-align: center; color: #808080; font-family: Helvetica, Arial, sans-serif; font-weight: normal; line-height: 13px; font-size: 11px; margin: 0; padding: 0;">
+
+                                            Если сообщение отображается некорректно, нажмите <a href="[[view]]" style="color: #808080; font-family: Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.2; text-decoration: underline; margin: 0; padding: 0;">здесь</a>
+
+                                        </td>
+
+                                    </tr>
+
+                                </table>    
+
+                            </td>
+
+                        </tr>
+
+                    </table>
+
+                    <!--MAIN-->
+
+                    <table align="center" border="0" cellpadding="0" cellspacing="0" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; margin: auto; padding: 0;">
+
+                        <tr align="left" style="vertical-align: top; text-align: left; padding: 0;">
+
+                            <td align="left" valign="top" style="line-height: 1.2;  margin: 0; padding: 0;">
+
+                                <table align="center"  border="0" cellpadding="0" cellspacing="0" bgcolor="#fefefe" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; width: 600px; float: none; box-shadow: 0 0 10px rgba(0,0,0,0.1); border-radius: 10px; background: #fefefe; margin: 0 auto; padding: 0;">
+
+                                     <!-- HEADER -->
+
+                                    <tr  align="left" style="vertical-align: top; text-align: left; padding: 0;">
+
+                                        <td align="left" bgcolor="#ffffff" valign="top" style="border-radius: 10px 10px 0 0; margin: 0; padding: 0; background: #ffffff;">
+
+                                            <table align="left"  border="0" cellpadding="0" cellspacing="0" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; width: 100%; padding: 0;">
+
+                                                 
+
+                                                <tr align="left" style="vertical-align: top; text-align: left; padding: 0;">
+
+                                                    <td align="left" style="width: 155px; color: #0a0a0a; font-family: Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.2; font-size: 16px; margin: 0; padding: 0;"></td>
+
+                                                    <td align="left" style="width: 290px;  text-align: left; line-height: 1.2; margin: 0; padding: 0;">
+
+                                                        <a href="https://www.chitai-gorod.ru/" style="color: #ffffff; font-family: Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.2; text-decoration: underline; margin: 0; padding: 0;">
+
+                                                            <img createnew="true"  src="https://multimedia.getresponse360.pl/chitaigorod/1/1/photos/4252.png" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block; border: none;" />
+
+                                                        </a>
+
+                                                    </td>
+
+                                                    <td align="left" valign="middle" style="width: 155px; vertical-align: middle; margin: 0; padding: 0;" ></td>
+
+                                                </tr>
+
+                                            </table>
+
+                                        </td>
+
+                                    </tr>
+
+                                    <!-- MENU -->
+
+                                    <tr align="left" style="vertical-align: top; text-align: left; padding: 0;">
+
+                                        <td bgcolor="#26a9e0" align="left" valign="top" style="border-collapse: collapse !important; vertical-align: top; text-align: left; margin: 0; padding: 10px 40px; background: #26a9e0;">
+
+                                            <table align="left"  border="0" cellpadding="0" cellspacing="0" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; padding: 0; width: 100%">
+
+                                                <tr align="left" style="vertical-align: top; text-align: left; padding: 0;">
+
+                                                     <td align="left" style="color: #4d4d4d; font-family: Helvetica, Arial, sans-serif; font-weight: normal; text-align: center; line-height: 1.2; font-size: 16px; margin: 0; padding: 0 10px 0 0;">
+
+                                                        <a href="https://www.chitai-gorod.ru/catalog/books/" style="color: #ffffff; font-family: Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.2; text-decoration: none; font-size: 14px; margin: 0; padding: 0;">Книги
+
+                                                        </a>                             
+
+                                                    </td>
+
+                                                    <td align="left" style="color: #4d4d4d; font-family: Helvetica, Arial, sans-serif; font-weight: normal; text-align: center; line-height: 1.2; font-size: 16px; margin: 0; padding: 0 10px;" >
+
+                                                        <a href="https://www.chitai-gorod.ru/catalog/kanctovars/" style="color: #ffffff; font-family: Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.2; text-decoration: none; font-size: 14px; margin: 0; padding: 0;">Канцтовары
+
+                                                        </a>
+
+                                                    </td>
+
+                                                    <td align="left" style="color: #4d4d4d; font-family: Helvetica, Arial, sans-serif; font-weight: normal; text-align: center; line-height: 1.2; font-size: 16px; margin: 0; padding: 0 10px;" >
+
+                                                        <a href="https://www.chitai-gorod.ru/catalog/souvenirs/" style="color: #ffffff; font-family: Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.2; text-decoration: none; font-size: 14px; margin: 0; padding: 0;">Сувениры
+
+                                                        </a>
+
+                                                    </td>
+
+                                                    <td align="left" style="color: #4d4d4d; font-family: Helvetica, Arial, sans-serif; font-weight: normal; text-align: center; line-height: 1.2; font-size: 16px; margin: 0; padding: 0 10px;" >
+
+                                                        <a href="https://www.chitai-gorod.ru/catalog/toys/" style="color: #ffffff; font-family: Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.2; text-decoration: none; font-size: 14px; margin: 0; padding: 0;">Игры и игрушки
+
+                                                        </a>
+
+                                                    </td>
+
+                                                    <td align="left" style="color: #4d4d4d; font-family: Helvetica, Arial, sans-serif; font-weight: normal; text-align: center; line-height: 1.2; font-size: 16px; margin: 0; padding: 0 0 0 10px;" >
+
+                                                        <a href="https://www.chitai-gorod.ru/catalog/hobbies/" style="color: #ffffff; font-family: Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.2; text-decoration: none; font-size: 14px; margin: 0; padding: 0;">Творчество
+
+                                                        </a>
+
+                                                    </td>
+
+                                                   
+
+                                                </tr>
+
+                                            </table>
+
+                                        </td>
+
+                                    </tr>
+
+                                    <!--CONTENT-->
+
+                                     <!-- <tr align="left"style="vertical-align: top; text-align: left; padding: 0;">
+
+                                         <td width="600" height="1" align="left" bgcolor="#ffffff" valign="top" style="background: #ffffff; margin: 0; padding: 0;">
+
+                                         </td>
+
+                                     </tr> -->
+
+                                     <tr style="vertical-align: top; text-align: left; padding: 0;" align="left">
+
+                                        <td width="600" height="1" style="word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: left; color: #0a0a0a; font-family: Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.2; font-size: 16px; background: #ffffff; margin: 0; padding: 0;" align="left" bgcolor="#ffffff" valign="top">
+
+                                            <img createnew="true"  src="https://multimedia.getresponse360.pl/chitaigorod/1/1/photos/185.gif" alt="" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block;" />
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr style="vertical-align: top; text-align: left; padding: 0;" align="left">
+
+                                        <td width="600" height="273" style="word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: left; color: #0a0a0a; font-family: Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.2; font-size: 16px; margin: 0; padding: 0;" align="left" valign="top">
+
+                                            <img createnew="true"  width="600" height="273" src="https://multimedia.getresponse360.pl/chitaigorod/1/1/photos/186.jpg" alt="" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block;" />
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr style="vertical-align: top; text-align: left; padding: 0;" align="left">
+
+                                        <td style="word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: left; color: #0a0a0a; font-family: Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.2; font-size: 16px; margin: 0; padding: 0;" align="left" valign="top">
+
+                                            <table style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; padding: 0;">
+
+                                                <tr style="vertical-align: top; text-align: left; padding: 0;" align="left">
+
+                                                    <td width="310" height="31" style="word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: left; color: #0a0a0a; font-family: Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.2; font-size: 16px; margin: 0; padding: 0;" align="left" valign="top"><img createnew="true"  width="310" height="31" src="https://multimedia.getresponse360.pl/chitaigorod/1/1/photos/187.jpg" alt="" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block;" />
+
+                                                    </td>
+
+                                                    <td width="175" height="31" valign="middle" align="center" style="color: #ffffff; vertical-align: middle; text-align: center; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; font-family: Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.2; font-size: 16px; background: #990048; margin: 0; padding: 0;" bgcolor="#990048">[[coupon]]</td>
+
+                                                    <td width="115" height="31" style="word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: left; color: #0a0a0a; font-family: Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.2; font-size: 16px; background: #ee5ba0; margin: 0; padding: 0;" align="left" bgcolor="#ee5ba0" valign="top"><img createnew="true"  src="https://multimedia.getresponse360.pl/chitaigorod/1/1/photos/185.gif" alt="" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block;" /></td>
+
+                                                </tr>
+
+                                            </table>
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr style="vertical-align: top; text-align: left; padding: 0;" align="left">
+
+                                        <td width="600" height="119" style="word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: left; color: #0a0a0a; font-family: Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.2; font-size: 16px; margin: 0; padding: 0;" align="left" valign="top">
+
+                                            <img createnew="true"  width="600" height="119" src="https://multimedia.getresponse360.pl/chitaigorod/1/1/photos/188.jpg" alt="" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block;" />
+
+                                        </td>
+
+                                    </tr>
+
+                                    <tr style="vertical-align: top; text-align: left; padding: 0;" align="left">
+
+                                        <td width="600" height="25" align="center" style="color: #ffffff; font-size: 11px; vertical-align: top; text-align: center; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; font-family: Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.2; background: #ee5ba0; margin: 0; padding: 0;" bgcolor="#ee5ba0" valign="top">* Купон действителен с 4 по 7 марта 2019 г.</td>
+
+                                    </tr>
+
+                                    <tr style="vertical-align: top; text-align: left; padding: 0;" align="left">
+
+                                        <td style="word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: left; color: #0a0a0a; font-family: Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.2; font-size: 16px; margin: 0; padding: 30px 40px;" align="left" valign="top">
+
+                                            <table style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; padding: 0;">
+
+                                                <tr style="vertical-align: top; text-align: left; padding: 0;" align="left">
+
+                                                    <td style="word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: left; color: #0a0a0a; font-family: Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.2; font-size: 16px; margin: 0; padding: 0;" align="left" valign="top">
+
+                                                        <b>Только с 4 по 7 марта</b> специально для вас <b>10% скидка</b> на любые книги в интернет-магазине chitai-gorod.ru.<br />Книг много не бывает!
+
+                                                    </td>
+
+                                                </tr>
+
+                                                <tr style="vertical-align: top; text-align: left; padding: 0;" align="left">
+
+                                                    <td style="word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: left; color: #0a0a0a; font-family: Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.2; font-size: 16px; margin: 0; padding: 25px 0;" align="left" valign="top">
+
+                                                        <table style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; padding: 0;">
+
+                                                            <tr style="vertical-align: top; text-align: left; padding: 0;" align="left">
+
+                                                                <td width="159" style="word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: left; color: #0a0a0a; font-family: Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.2; font-size: 16px; margin: 0; padding: 0;" align="left" valign="top">
+
+                                                                    <img createnew="true"  src="https://multimedia.getresponse360.pl/chitaigorod/1/1/photos/2038.gif" alt="" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block;" />
+
+                                                                </td>
+
+                                                                <td width="200" height="50" align="center" style="background-color:#ee5ba0; border-radius: 5px; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: middle; text-align:center; color: #0a0a0a; font-family: Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.2; font-size: 16px; margin: 0; padding: 0;" valign="middle">
+
+                                                                    <a href="https://www.chitai-gorod.ru/" style="display:block; font-family: Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.2; text-decoration: none; margin: 0; padding: 0; width:200px; height: 50px; line-height:50px; text-align:center; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: middle; border-radius: 5px; color: #ffffff; font-family: Helvetica, Arial, sans-serif; font-weight: normal; font-size: 16px; background-color:#ee5ba0;">
+
+                                                                        <b>Выбрать книги</b>
+
+                                                                    </a>
+
+                                                                </td>
+
+                                                                <td width="160" style="word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: left; color: #0a0a0a; font-family: Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.2; font-size: 16px; margin: 0; padding: 0;" align="left" valign="top">
+
+                                                                    <img createnew="true"  src="https://multimedia.getresponse360.pl/chitaigorod/1/1/photos/2038.gif" alt="" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block;" />
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                        </table>
+
+                                                    </td>
+
+                                                </tr>
+
+                                                <tr style="vertical-align: top; text-align: left; padding: 0;" align="left">
+
+                                                    <td style="font-size: 11px; line-height: 1.2; color: #26a9e0; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: left; font-family: Helvetica, Arial, sans-serif; font-weight: normal; margin: 0; padding: 0;" align="left" valign="top">Условия использования:</td>
+
+                                                </tr>
+
+                                                <tr style="vertical-align: top; text-align: left; padding: 0;" align="left">
+
+                                                    <td style="word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: left; color: #4d4d4d; font-family: Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.2; font-size: 16px; margin: 0; padding: 0;" align="left" valign="top">
+
+                                                        <ul style="padding-left: 13px; color: #929497; font-size: 11px; padding-top: 5px; margin-top: 0;">
+
+                                                            <li>Купон действует с 4 по 7 марта включительно только в Интернет-магазине www.chitai-gorod.ru (ООО &laquo;Новый Книжный Центр&raquo;, 127322, г. Москва, Огородный проезд, дом&nbsp;20,строение&nbsp;27, помещение&nbsp;14, ОГРН 1027700282763).</li>
+
+                                                            <li>Купон с промо-кодом дает право на получение скидки в размере 10% на все книги из ассортимента Интернет-магазина, за исключением книги «Дети Ноя» (Шмитт) (ID товара 2618644) и книг из раздела «Скоро в продаже».</li>
+
+                                                            <li>Для получения скидки в Интернет-магазине покупателю необходимо ввести промо-код, указанный в купоне в поле &laquo;Купон на скидку&raquo; при оформлении заказа при условии авторизации в личном кабинете на сайте www.chitai-gorod.ru.</li>
+
+                                                            <li>Купон с промо-кодом может быть использован только один раз. В случае отмены заказа с активированным купоном скидка по купону не восстанавливается.</li>
+
+                                                            <li>Организатор не несет ответственности за невозможность воспользоваться скидкой по промо-коду, если ранее этой скидкой воспользовались третьи лица в соответствии с информацией, полученной любым способом от держателя купона.</li>
+
+                                                            <li>Скидка по купону не суммируется со скидками по купонам, другим акциям, а также со скидкой по картам лояльности &laquo;Читай-город&raquo; и &laquo;Гоголь-Моголь&raquo;.</li>
+
+                                                            <li>Скидка по купону не распространяется на товар, заказ на который был оформлен в интернет-магазине до даты начала действия купона, и получен в период действия Купона.</li>
+
+                                                            <li>Оплата бонусами товара, приобретённого с использованием купона, возможна, начисление бонусов за товар, приобретённый с использованием купона, не производится.</li>
+
+                                                            <li>Оплата товара, приобретённого по акции, подарочными картами возможна только в случае оплаты товара, приобретённого по акции, в розничных магазинах сети &laquo;Читай-город&raquo; при получении заказа, оформленного в Интернет-магазине.</li>
+
+                                                            <li>При возврате товара, приобретённого с использованием купона, денежные средства возвращаются в размере стоимости товара за вычетом скидки по купону и части, оплаченной бонусами. При возврате товара, приобретённого с использованием купона, купон не восстанавливается.</li>
+
+                                                            <li>Количество купонов и товара ограничено.</li>
+
+                                                            <li>Вся информация об акции предоставляется по телефону <nobr>8-800-444-8-444</nobr>.</li>
+
+                                                        </ul>
+
+                                                    </td>
+
+                                                </tr>
+
+                                            </table>
+
+                                        </td>
+
+                                    </tr>
+
+                                    <!--END CONTENT-->
+
+                                    <!--FOOTER-->
+
+                                    <tr style="vertical-align: top; text-align: left; padding: 0;" align="left">
+
+                                        <td align="left" bgcolor="#26a9e0" valign="top" style="border-collapse: collapse !important; vertical-align: top; text-align: left; border-radius: 0 0 10px 10px; background: #26a9e0; height:40px; margin: 0; padding: 24px 40px;">
+
+                                            <table border="0" cellpadding="0" cellspacing="0" align="left" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; padding: 0;">
+
+                                                <tr align="left" style="vertical-align: top; text-align: left; padding: 0;">
+
+                                                    <td width="186px" align="left" valign="middle" height="40" style="border-collapse: collapse !important; vertical-align: middle; text-align: left; padding: 0; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; color: #ffffff; font-family: Helvetica, Arial, sans-serif; font-weight: normal; line-height: 1.2; font-size: 14px; padding-right:60px;">
+
+                                                          <nobr>Следуйте за Читай&#8209;городом:</nobr>
+
+                                                    </td>
+
+                                                    <td align="left" valign="middle" height="40" style="border-collapse: collapse !important; vertical-align: middle; text-align: left; padding: 0; width:274px;">
+
+                                                        <table border="0" cellpadding="0" cellspacing="0" align="left" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; padding: 0; width:100%;">
+
+                                                            <tr align="left" style="vertical-align: top; text-align: left; padding: 0;">
+
+                                                                <td style="border-collapse: collapse !important; vertical-align: middle; text-align: left; width: 16.66667%; float: none; margin: 0 auto; padding: 0px;">
+
+                                                                    <a href="http://vk.com/chitaigorod" style="color: #2199e8; font-family: Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.2; text-decoration: none; margin: 0; padding: 0;"><img createnew="true"  src="https://multimedia.getresponse360.pl/chitaigorod/1/1/photos/2788.png" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block; border: none;" /></a>
+
+                                                                </td>
+
+                                                                <td style="border-collapse: collapse !important; vertical-align: middle; text-align: left; width: 16.66667%; float: none; margin: 0 auto; padding: 0px;">
+
+                                                                    <a href="http://www.facebook.com/chitaigorod" style="color: #2199e8; font-family: Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.2; text-decoration: none; margin: 0; padding: 0;"><img createnew="true"  src="https://multimedia.getresponse360.pl/chitaigorod/1/1/photos/2789.png" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block; border: none;" /></a>
+
+                                                                </td>
+
+                                                                <td style="border-collapse: collapse !important; vertical-align: middle; text-align: left; width: 16.66667%; float: none; margin: 0 auto; padding: 0px;">
+
+                                                                    <a href="http://twitter.com/chitaigorod" style="color: #2199e8; font-family: Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.2; text-decoration: none; margin: 0; padding: 0;"><img createnew="true"  src="https://multimedia.getresponse360.pl/chitaigorod/1/1/photos/2790.png" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block; border: none;" /></a>
+
+                                                                </td>
+
+                                                                <td style="border-collapse: collapse !important; vertical-align: middle; text-align: left; width: 16.66667%; float: none; margin: 0 auto; padding: 0px;">
+
+                                                                    <a href="http://ok.ru/chitaigorod" style="color: #2199e8; font-family: Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.2; text-decoration: none; margin: 0; padding: 0;"><img createnew="true"  src="https://multimedia.getresponse360.pl/chitaigorod/1/1/photos/2791.png" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block; border: none;" /></a>
+
+                                                                </td>
+
+                                                                <td style="border-collapse: collapse !important; vertical-align: middle; text-align: left; width: 16.66667%; float: none; margin: 0 auto; padding: 0px;">
+
+                                                                    <a href="https://www.instagram.com/chitai_gorod/" style="color: #2199e8; font-family: Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.2; text-decoration: none; margin: 0; padding: 0;"><img createnew="true"  src="https://multimedia.getresponse360.pl/chitaigorod/1/1/photos/2792.png" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block; border: none;" /></a>
+
+                                                                </td>
+
+                                                                <td style="border-collapse: collapse !important; vertical-align: middle; text-align: left; width: 16.66667%; float: none; margin: 0 auto; padding: 0px;">
+
+                                                                    <a href="https://www.youtube.com/channel/UCbsqXVnwSqer9QttshVs76A" style="color: #2199e8; font-family: Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.2; text-decoration: none; margin: 0; padding: 0;"><img createnew="true"  src="https://multimedia.getresponse360.pl/chitaigorod/1/1/photos/2793.png" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; clear: both; display: block; border: none;" /></a>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                        </table>
+
+                                                    </td>
+
+                                                </tr>
+
+                                            </table>
+
+                                        </td>
+
+                                    </tr>
+
+                                </table>
+
+                            </td>
+
+                        </tr>
+
+                    </table>
+
+                    
+
+                    <!--UNSUBSCRIBE-->
+
+                    <table align="center" border="0" cellpadding="0" cellspacing="0"width="600" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: center; padding: 0;">
+
+                        <tr align="left" style="vertical-align: top; text-align: left; padding: 0;">
+
+                            <td valign="top" align="center" colspan="14" style="font-family: Arial, Helvetica, sans-serif; color: #808080; font-size: 11px; line-height: 13px; text-align: center; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; font-weight: normal; margin: 0; padding: 15px 0;" >
+
+                            ООО &laquo;Новый Книжный Центр&raquo;, г. Москва, Огородный проезд, д. 20, стр. 27, пом. 14, ОГРН 1027700282763.<br />
+
+                            Количество товара ограничено. Вы получили это письмо, потому что подписались на рассылку новостей сайта
+
+                                <a href="http://www.chitai-gorod.ru" target="_blank" style="color: #26a9e0; font-family: Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.2; text-decoration: none; margin: 0; padding: 0;">
+
+                                    www.chitai-gorod.ru
+
+                                </a>
+
+                                <a href="[[remove]]" style="color: #808080; text-decoration: underline; font-family: Helvetica, Arial, sans-serif; font-weight: normal; text-align: left; line-height: 1.2; margin: 0; padding: 0;" target="_blank">
+
+                                    Отписаться от рассылки
+
+                                </a>
+
+                            </td>
+
+                        </tr>
+
+                    </table>
+
+                </center>
+
+            </td>
+
+        </tr>
+
+    </table>
+
+</body>
+
+</html>
